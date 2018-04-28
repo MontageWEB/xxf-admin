@@ -31,11 +31,8 @@ npm run build --report
 * vue-resouce与后端数据交互
 
 ##### 五、效果截图
- ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/static/images/1.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/2.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/3.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/4.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/5.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/6.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/7.png)
- ![image](https://raw.githubusercontent.com/MontageWEB/eleme/master/static/images/8.png)
+ ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/src/assets/1.png)
+ ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/src/assets/2.png)
+ ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/src/assets/3.png)
+ ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/src/assets/4.png)
+ ![image](https://raw.githubusercontent.com/MontageWEB/xxf-admin/master/src/assets/5.png)
